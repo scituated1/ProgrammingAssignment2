@@ -8,9 +8,6 @@
 ##  3.  cache the value of the inverse of the matrix
 ##  4.  get the cached value--
 
-## - not working - initial call does not make m or curr-matrix available.  
-##not sure what is diff from the sample
-
 
 makeCacheMatrix <- function(x = matrix()) {
         
